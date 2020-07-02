@@ -1,5 +1,5 @@
 {
-  "name": "fyipe/log-php-staging",
+  "name": "fyipe/log-php",
   "description": "A fyipe PHP package that send logs from your applications to your fyipe dashboard.",
   "license": "MIT",
   "minimum-stability": "stable",
