@@ -1,8 +1,8 @@
 {
-  "name": "fyipe/sdk",
+  "name": "fyipe/sdk-staging",
   "description": "Fyipe SDK package send logs from your applications to your fyipe dashboard.",
   "license": "MIT",
-  "version": "3.0.3",
+  "version": "3.0.$CI_PIPELINE_IID",
   "minimum-stability": "stable",
   "authors": [
     {
@@ -13,7 +13,8 @@
     "php": "^7.0",
     "guzzlehttp/guzzle": "~6.0",
     "symfony/var-dumper": "^5.1",
-    "fzaninotto/faker": "^1.9"
+    "fzaninotto/faker": "^1.9",
+    "lrucache/lrucache": "^0.3.0"
   },
   "require-dev": {
     "mockery/mockery": "^1.0",
