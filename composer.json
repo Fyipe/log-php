@@ -1,5 +1,5 @@
 {
-  "name": "fyipe/sdk-staging",
+  "name": "fyipe/sdk",
   "description": "Fyipe SDK package send logs from your applications to your fyipe dashboard.",
   "license": "MIT",
   "version": "3.0.9",
